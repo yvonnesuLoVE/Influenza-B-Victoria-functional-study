@@ -9,26 +9,6 @@ This study investigates how haemagglutinin (HA) deletions at residues 162–164 
 
 To address this gap, we combined phylodynamic analyses and reverse genetics to investigate the effects of HA deletions and substitutions across 19 B/Victoria recombinant viruses. Replication, receptor binding, HA stability and pathogenicity in mice were examined to understand the functional changes associated with the emergence and replacement of Clades V1A.1 and V1A.3.
 
-
-## Key Findings
-
-- Clade V1A.1 viruses carrying a two-amino acid deletion and the substitutions D129G, I180V and R498K exhibited enhanced replication and virulence compared with the ancestral B/Brisbane/60/2008 virus lacking deletions.
-- V1A.1 mutants carrying the dual combinations 129D+180I, 2aa reinsertion+129D, or 2aa reinsertion+498R caused greater mortality in mice than the corresponding single mutants.
-- The prevailing Clade V1A.3, carrying a three-amino acid deletion and the K136E substitution, displaced V1A.1 and showed increased pathogenicity in mice.
-- Reinsertion of deleted residues reduced overall HA stability, whereas combinations of two- or three-amino acid deletions with specific HA substitutions restored or enhanced stability.
-- Across 19 B/Victoria recombinant viruses, greater thermal HA stability was strongly associated with higher lung viral loads, weight loss and mortality, identifying thermal stability as a key correlate of pathogenicity.
-
----
-
-## Data Sources
-
-- Influenza B/Victoria sequence data used for phylodynamic analyses of HA deletion variants and the emergence and replacement of viral clades.
-- Experimental measurements from 19 B/Victoria recombinant viruses generated using reverse genetics, including viruses with HA deletions, residue reinsertions and associated substitutions.
-- Viral replication, receptor-binding, pH stability and thermal stability measurements used to characterize the functional effects of HA variation.
-- Mouse infection measurements, including lung viral loads, weight loss and mortality, used to assess pathogenicity and its association with thermal HA stability.
-
-The experimental workbooks, sequencing reads and reference sequences are not bundled with the code package. Dataset accession details and availability information should accompany the study release.
-
 ---
 
 ## Repository Contents
